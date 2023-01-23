@@ -64,7 +64,7 @@ form{
 }
 button{
     position: absolute;
-top: 20%;
+top: 25%;
 right: 6%;
 background:beige ;
     
@@ -76,7 +76,7 @@ input{
 }
   .btn{
         position: absolute;
-top: 20%;
+top: 25%;
 right: 70%;
 background:beige;
   }  
